@@ -56,14 +56,22 @@ I built **SecureOne** because:
 ## 📂 Project Structure
 SecureOne-Bot/
 │
+
 ├── main.py # Entry point for running the bot
+
 ├── config.json # Stores configuration (bot token, settings)
+
 ├── database.json # Encrypted storage for credentials
+
 ├── requirements.txt # Python dependencies
+
 ├── utils/
 │ ├── crypto.py # Encryption & decryption logic
+
 │ ├── storage.py # JSON database handling
+
 │ └── helpers.py # Utility functions
+
 └── README.md # Project documentation
 
 ---
