@@ -1,13 +1,6 @@
 🔐 SecureOne Password Vault Bot
 
 
-
-
-
-
-![secureone](https://github.com/user-attachments/assets/9cd50d96-993d-47f3-a29d-68dbd344a3bc)
-
-
 A Telegram bot to securely store and manage passwords using encryption.
 It acts as a lightweight password manager where each user can save, update, retrieve, and generate strong passwords directly inside Telegram.
 
